@@ -1,0 +1,20 @@
+{
+  "name": "fx-container",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^10.0.6",
+    "@angular/core": "^10.0.6"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jiygun/fx-container.git"
+  },
+  "keywords": [
+    "angular",
+    "fx-container"
+  ],
+  "author": "Jiyan Güngen"
+}
